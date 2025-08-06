@@ -11,7 +11,9 @@
     "new_Revenue_2022": { "type": "integer" },
     "new_Revenue_2023": { "type": "integer" },
     "new_Revenue_2024": { "type": "integer" },
-    "new_news_and_investment": { "type": "string" }
+    "new_news_and_investment": { "type": "string" },
+    "sources": { "type": "string" },
+    "notes": { "type": "string" }
   },
   "required": [
     "new_EBITDA_2020",
