@@ -1,0 +1,30 @@
+{
+  "type": "object",
+  "properties": {
+    "new_EBITDA_2020": { "type": "integer" },
+    "new_EBITDA_2021": { "type": "integer" },
+    "new_EBITDA_2022": { "type": "integer" },
+    "new_EBITDA_2023": { "type": "integer" },
+    "new_EBITDA_2024": { "type": "integer" },
+    "new_Revenue_2020": { "type": "integer" },
+    "new_Revenue_2021": { "type": "integer" },
+    "new_Revenue_2022": { "type": "integer" },
+    "new_Revenue_2023": { "type": "integer" },
+    "new_Revenue_2024": { "type": "integer" },
+    "new_news_and_investment": { "type": "string" }
+  },
+  "required": [
+    "new_EBITDA_2020",
+    "new_EBITDA_2021",
+    "new_EBITDA_2022",
+    "new_EBITDA_2023",
+    "new_EBITDA_2024",
+    "new_Revenue_2020",
+    "new_Revenue_2021",
+    "new_Revenue_2022",
+    "new_Revenue_2023",
+    "new_Revenue_2024",
+    "new_news_and_investment"
+  ],
+  "additionalProperties": false
+}
